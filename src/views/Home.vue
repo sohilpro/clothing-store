@@ -124,56 +124,56 @@ export default{
     tab: null,
     products: [
       {
-        img: '',
-        price: '$71',
+        img: 'https://bbshop.ir/image/cache/catalog/b66041503%20(2)-550x450h.png',
+        price: '$21',
         title: 'Style three Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://pelaziocdn.com/JwfBlIbEjVwKnSEVBIms7t1jVwY=/800x800/filters:quality(80):format(webp)/http://static.pelazio.com/upload/photo/202012/02/15/738b4a33a99b249afc86b100e6891d55.png',
+        price: '$5',
+        title: 'Style five Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://www.lilianmode.ir/wp-content/uploads/2022/03/IMG_4697-copy.png',
+        price: '$93.33',
+        title: 'Style eight Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://pelaziocdn.com/yNYxp592fryvtMTgPwaVW-mr-Po=/400x400/filters:quality(80):format(webp)/http://static.pelazio.com/upload/photo/202008/18/13/ef53d4aa220af666a79aa6d999244055.png',
+        price: '$100',
+        title: 'Style nine Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://bbshop.ir/image/cache/catalog/b67871105-550x450h.png',
+        price: '$66.6',
+        title: 'Style seven Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://fstools.ir/wp-content/uploads/2013/06/%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7.png',
+        price: '$70.23',
+        title: 'Style four Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://zanbil.avin-tarh.ir/demo/fashion/wp-content/uploads/2018/10/cushion10-300x300.png',
+        price: '$20',
+        title: 'Style one Parasut'
       },
       {
-        img: '',
-        price: '$71',
-        title: 'Style three Parasut'
+        img: 'https://cdnfa.com/delband/f1e6/files/thumb/4742067.png',
+        price: '$23',
+        title: 'Style two Parasut'
       },
     ],
     parkas:[
     {
         img: 'https://api.sailracing.com/storage/images/product/2131117/2131117_101_a.png',
         price: '$71',
-        title: 'Style three Parasut'
+        title: 'Style six Parasut'
     },
     {
         img: 'https://api.sailracing.com/storage/images/product/2031121/2031121_958_a.png',
         price: '$71',
-        title: 'Style three Parasut'
+        title: 'Style two Parasut'
     },
     {
         img: 'https://stellar.centracdn.net/client/dynamic/images/96_1d1bfd4f42-122green-001-m-guide-expedition-parka.png',
@@ -183,7 +183,7 @@ export default{
     {
         img: 'https://stellar.centracdn.net/client/dynamic/images/96_c8f3534cb6-122orange-001-m-guide-expedition-parka.png',
         price: '$71',
-        title: 'Style three Parasut'
+        title: 'Style four Parasut'
     },
     {
         img: 'https://stellar.centracdn.net/client/dynamic/images/96_e2829ef08d-122dkgrey-001-m-guide-expedition-parka-medi.png',
@@ -193,21 +193,103 @@ export default{
     {
         img: 'https://stellar.centracdn.net/client/dynamic/images/96_6f269e2780-122yellow-001-m-guide-expedition-parka.png',
         price: '$71',
-        title: 'Style three Parasut'
+        title: 'Style seven Parasut'
     },
     {
-        img: 'https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/3941_source_1665899449.png',
+        img: 'https://stellar.centracdn.net/client/dynamic/images/112_1827140252-152dkgrey-02-m-stretch-down-jacket_new-medi.png',
         price: '$71',
-        title: 'Style three Parasut'
+        title: 'Style nine Parasut'
     },
     {
         img: 'https://buyma-global-prod-img.s3.amazonaws.com/img/upload/product_image/2e541017-54cd-4d50-b14d-9ecd7271a665/e17a40c6-0aaa-4ffe-9294-82279534d89d.PNG',
         price: '$71',
+        title: 'Style five Parasut'
+    },
+  ],
+    steves:[
+    {
+        img: 'https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1fa82.png',
+        price: '$87',
+        title: 'Style eight Parasut'
+    },    
+    {
+        img: 'https://cdn11.bigcommerce.com/s-7tqzhr7u3z/images/stencil/1280x1280/products/6823/5361/185037__89335.1662664214.png?c=2',
+        price: '$71.8',
+        title: 'Style six Parasut'
+    },    
+    {
+        img: 'https://community.cloudflare.steamstatic.com/economy/image/-8zOYQcPJoBYU7uKzjw0RZajjFiA_AojfFoacglhStOfdn6gbpcbDuuPIxAI88oXKSa_pIsdQy9UTOmvsw_2W9ArPI-0F4HfTGrmNvvn0ptfIA/360fx360f',
+        price: '$99.99',
+        title: 'Style ten Parasut'
+    },   
+    {
+        img: 'https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/parachute.png',
+        price: '$52',
+        title: 'Style eleven Parasut'
+    },   
+    {
+        img: 'https://images.emojiterra.com/twitter/v13.1/512px/1fa82.png',
+        price: '$692',
+        title: 'Style one Parasut'
+    },    
+    {
+        img: 'https://assets.stickpng.com/images/5a5a616514d8c4188e0b0852.png',
+        price: '$48.2',
         title: 'Style three Parasut'
+    },    
+    {
+        img: 'https://files.oyebesmartest.com/uploads/large/11565356184xzbwziygd8arua2popo9emz1wa4r3ob82ngwogwe9osdo1ayqr7tlkttwvwyddilnkwn2opnurnsh03ticqjbdrkdhk1d98yeo7n.png',
+        price: '$78.9',
+        title: 'Style six Parasut'
+    },    
+    {
+        img: 'https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/4148397/image/aa7e3b0e29430bb25d0c897cec2371b7',
+        price: '$71',
+        title: 'Style seven Parasut'
     },
     ],
-    steves:[],
-    dennis:[],
+    dennis:[
+    {
+      img: 'https://pelaziocdn.com/YHr3OXWaeLWAkuaXRF7L5h943R4=/1200x1200/filters:quality(80):format(webp)/http://static.pelazio.com/upload/photo/202009/02/12/bd54a1f3838dfb9304a0f46440eaf417.png',
+      price: '$53.99',
+      title: 'Style eight Parasut'
+    },
+    {
+      img: 'https://pelaziocdn.com/cgDQdatduWu_20lsQpTcLpcDDa8=/400x400/filters:quality(80):format(webp)/http://static.pelazio.com/upload/photo/202008/25/14/34c9e280335c6d4f94275d1625e7badb.png',
+      price: '$50.9',
+      title: 'Style nine Parasut'
+    },
+    {
+      img: 'https://www.ruderecords.com/wp-content/uploads/sites/104/2022/03/Superlove_Y2K_Tee.png',
+      price: '$99.99',
+      title: 'Style two Parasut'
+    },
+    {
+      img: 'https://chapchi.com/system/extra_pages/all-over-tshirt-men.png',
+      price: '$77',
+      title: 'Style eight Parasut'
+    },
+    {
+      img: 'https://papazh.com/storage/gallery/02029/wp.png',
+      price: '$88.29',
+      title: 'Style one Parasut'
+    },
+    {
+      img: 'https://tarhbato.com/wp-content/uploads/2022/02/4.png',
+      price: '$71.49',
+      title: 'Style seven Parasut'
+    },
+    {
+      img: 'https://chehape.ir/resources/images/cottontshirt.png',
+      price: '$95.59',
+      title: 'Style five Parasut'
+    },
+    {
+      img: 'https://tantak.ir/assets/db_imgs/new_added/IMG-2022-02-07--14-26-54-index.png',
+      price: '$88',
+      title: 'Style two Parasut'
+    },
+    ],
   }),
   components:{
     Sidebar,

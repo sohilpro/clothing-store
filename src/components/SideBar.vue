@@ -1,7 +1,7 @@
 <template>
   <v-navigation-drawer v-model="drawer" app dark color="#323852" mini-variant mini-variant-width="90">
     <v-avatar class="d-block text-center mx-auto mt-6 border_img" size="40">
-      <img src="@/assets/man.png" alt="..." />
+      <img src="../../public/man.png" alt="..." />
     </v-avatar>
     <v-list flat class="mt-5">
       <v-list-item-group v-model="SelectItem">
